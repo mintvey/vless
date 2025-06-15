@@ -6,7 +6,7 @@
 
 * #### **IOS**:
 + fair
-+ [streisand]([https://github.com/hiddify/hiddify-app  ](https://apps.apple.com/ru/app/streisand/id6450534064)
++ [streisand](https://github.com/hiddify/hiddify-app  ](https://apps.apple.com/ru/app/streisand/id6450534064)
 
 * #### **Windows and Linux**:
 + [hiddify-next](https://github.com/hiddify/hiddify-app  "hiddify-next")
