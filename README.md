@@ -27,15 +27,17 @@ https://github.com/Epodonios/v2ray-configs
 https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.svg
 
 [![](https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.svg "Текст всплывающей подсказки")](URL_куда_ссылается "Текст всплывающей подсказки на ссылке")
--->
+
 
 <span title="Всплывающая подсказка для картинки">
 <img src="https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.svg" alt="Описание картинки">
 </span>
+-->
 
-111
+113564
+
 <span title="Здесь описание собаки">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Golden_retriever_Carlos.jpg/1200px-Golden_retriever_Carlos.jpg" alt="Собака">
+  <img src="https://elementarika.ru/wp-content/uploads/2022/05/vsplyvayushhaya-podskazka-v-elementor_006.png" alt="Собака">
 </span>
 
 
