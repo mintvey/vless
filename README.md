@@ -5,7 +5,7 @@
 ### v2rayng
 
 ## IOS:
-###fair
+### fair
 ### streisand
 
 ## Windows and Linux:
