@@ -17,6 +17,8 @@
 ### **Взято с источника для удобства использования**:
 https://github.com/Epodonios/v2ray-configs
 
+
+
 <!--
 [Skillbox Media](https://skillbox.ru/media/ "Всплывающая подсказка") с подсказкой
 [nekoray](https://github.com/hiddify/hiddify-app)
@@ -33,12 +35,5 @@ https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.sv
 <img src="https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.svg" alt="Описание картинки">
 </span>
 -->
-
-113564
-
-<span title="Здесь описание собаки">
-  <img src="https://elementarika.ru/wp-content/uploads/2022/05/vsplyvayushhaya-podskazka-v-elementor_006.png" alt="Собака">
-</span>
-
 
 
