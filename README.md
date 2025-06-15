@@ -37,8 +37,7 @@ https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.sv
 </span>
 -->
 
-![https://github.com/hiddify/hiddify-app](<img src="https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.svg" width="200">)
-
+![](<img src="https://github.com/mintvey/vless/blob/main/images/hiddify.PNG" width="80">)
 
 
 
