@@ -1,8 +1,9 @@
 ## Конфигурационные файлы для настройки программ со своим VPN proxy
 
 * #### **Android**:
-	+ [hiddify-next](https://github.com/hiddify/hiddify-app  "hiddify-next")
- 	+ [hiddify-next](https://github.com/hiddify/hiddify-app  "https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.svg")
+	+ [](https://github.com/hiddify/hiddify-app "hiddify-next") Теекст
+	 
+  
 	+ [v2rayng](https://github.com/2dust/v2rayN)
 
 * #### **IOS**:
@@ -27,7 +28,7 @@ https://github.com/Epodonios/v2ray-configs
 ![Изображение]([https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png ]
 ![Изображение](https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.svg)
 https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.svg
-
+<img src="https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.svg">
 [![](https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.svg "Текст всплывающей подсказки")](URL_куда_ссылается "Текст всплывающей подсказки на ссылке")
 
 
@@ -35,5 +36,10 @@ https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.sv
 <img src="https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.svg" alt="Описание картинки">
 </span>
 -->
+
+![https://github.com/hiddify/hiddify-app](<img src="https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.svg" width="200">)
+
+
+
 
 
