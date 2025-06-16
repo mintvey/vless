@@ -1,9 +1,7 @@
 ## Конфигурационные файлы для настройки программ со своим VPN proxy
 
 * #### **Android**:
-	+ [](https://github.com/hiddify/hiddify-app "hiddify-next") Теекст
-	 
-  
+	+ [hiddify-next](https://github.com/hiddify/hiddify-app "hiddify-next")
 	+ [v2rayng](https://github.com/2dust/v2rayN)
 
 * #### **IOS**:
@@ -37,8 +35,6 @@ https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.sv
 </span>
 -->
 
-![](<img src="https://github.com/mintvey/vless/blob/main/images/hiddify.PNG" width="80">)
-![111111111111111111](<img src="https://github.com/mintvey/vless/blob/main/images/hiddify.PNG" width="80">)
 
 
 
